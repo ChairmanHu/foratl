@@ -40,10 +40,18 @@ iframe {
 }
 
 .menu li a {
+	border-radius: 10px;
 	color: #FFFFFF;
+	padding: 10px 20px;
+}
+
+.menu li a:hover {
+	background-color: #2F6083;
+	text-decoration: none;
 }
 
 .menu li.active a {
+	background-color: #2F6083;
 	font-weight: bold;
 }
 
@@ -61,7 +69,16 @@ iframe {
 }
 
 .section h2 {
+	color: #FFF;
 	font-size: 40px;
+}
+
+.section p {
+	margin-top: 40px;
+}
+
+.section span {
+	color: #8BAAAB;
 }
 
 .atl-foot {
