@@ -1,6 +1,6 @@
 body {
 
-	background-image: url('/img/cubes.png');
+	background-color: #FFCA3D; /* yellow */
 }
 
 .make-serif {
@@ -8,6 +8,8 @@ body {
 }
 
 .atl-container {
+	color: #0092B2; /* blue */
+	/*color: #B70000;*/ /* red */
 	padding-top: 150px;
 	text-align: center;
 	background: none;
